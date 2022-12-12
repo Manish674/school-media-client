@@ -1,0 +1,7 @@
+Admin-form 
+ L to create soft copy of the student 
+   L student-name
+   L phone-number
+
+login form /:id
+  L to create hard copy of the student
